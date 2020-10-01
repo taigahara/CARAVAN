@@ -8,6 +8,7 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
+投稿機能、編集機能、削除機能
 
 * Configuration
 
